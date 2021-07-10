@@ -2,6 +2,14 @@
 
 This module is an introduction to Markov chain Monte Carlo (MCMC) methods with some simple applications in infectious disease studies. The course includes an introduction to Bayesian statistics, Monte Carlo, MCMC, some background theory, and convergence diagnostics. Algorithms include Gibbs sampling, Metropolis-Hastings and their combinations. Familiarity with the R statistical package or other computing language would be helpful.
 
+## Logistics
+
+**Time:** July 14, 11:30 am - 2:30 pm, July 15-16, 8:00 am - 2:30 pm
+
+**Place:** Zoom (link is coming soon)
+
+**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
+
 ## Course materials
 
 ### Intorduction to Bayesian inference and Gibbs sampling
