@@ -4,45 +4,69 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ## Logistics
 
-**Time:** July 14, 11:30 am - 2:30 pm, July 15-16, 8:00 am - 2:30 pm
+:date: **Time:** July 14, 11:30 am - 2:30 pm, July 15-16, 8:00 am - 2:30 pm
 
-**Place:** Zoom (link is coming soon)
+:desktop_computer: **Place:** Zoom (link is coming soon)
 
-**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen) ![](https://github.com/vnminin/sismid_mcmc_one/blob/main/ka_email.png), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
+:man_scientist: :woman_scientist: :man_scientist:**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
 
 ## Course materials
 
 ### Intorduction to Bayesian inference and Gibbs sampling
 
-```Slides/Notes``` | Practicals | Videos | Code
+Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
 slides_bayesintro.pdf | PracticalBayes.pdf | some video | bayesintro2021.R
 
+### Classical Monte Carlo and Markov chain theory
 
-```markdown
-Syntax highlighted code block
+Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
 
-# Header 1
-## Header 2
-### Header 3
+### Metropolis-Hastings algorithm
 
-- Bulleted
-- List
+Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+### Gibbs sampling and chain binomial model
 
-1. Numbered
-2. List
+Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+### Metropolis-Hastings and Gibbs combined
 
-**Bold** and _Italic_ and `Code` text
+Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+ ### Chain binomial model revisited
+ 
+ Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+ ### General epidemic model
+ 
+  Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+ ### Monte Carlo error and MCMC diagnostics
+ 
+  Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+ |  |  | 
+ 
+## Useful Books:
+- C.P. Robert and G. Casella. Monte Carlo statistical methods, 2nd edition, Springer-Verlag, 2004.
+- C.P. Robert and G. Casella. Introducing Monte Carlo methods with R, Springer-Verlag, 2009. (a more hands-on version of the first book by the same authors)
+- J. Albert. Bayesian computation with R, 2nd edition, Springer-Verlag, 2009.
+- P. Brémaud. Markov chains: Gibbs fields, Monte Carlo simulation, and queues, Springer-Verlag, 1999.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vnminin/sismid_mcmc_one/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Other Resources:
+- L. Tierney. Markov Chains for Exploring Posterior Distributions, Annals of Statistics, 22, 1701-1762, 1994.
+- S. Chib. and E. Greenberg. Understanding the Metropolis-Hastings Algorithm, The American Statistician, 49, 327-335, 1995.
+- G. Casella and E.I. George. Explaining the Gibbs Sampler, The American Statistician, 46, 167-174, 1992.
