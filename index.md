@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Course Description
 
-You can use the [editor on GitHub](https://github.com/vnminin/sismid_mcmc_one/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This module is an introduction to Markov chain Monte Carlo (MCMC) methods with some simple applications in infectious disease studies. The course includes an introduction to Bayesian statistics, Monte Carlo, MCMC, some background theory, and convergence diagnostics. Algorithms include Gibbs sampling, Metropolis-Hastings and their combinations. Familiarity with the R statistical package or other computing language would be helpful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course materials
 
-### Markdown
+### Intorduction to Bayesian inference and Gibbs sampling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Slides/Notes | Practicals | Videos | Code
+------------ | ---------- | ------ | ----
+blah
+
 
 ```markdown
 Syntax highlighted code block
