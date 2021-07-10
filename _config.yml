@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [SISMID Module 8 2021]
 description: [MCMC I for Infectious Diseases]
+plugins:
+  - jemoji
