@@ -48,7 +48,7 @@ Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### General epidemic model :zombie:
+ ### General epidemic model 🧟
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
