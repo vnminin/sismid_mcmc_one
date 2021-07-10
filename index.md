@@ -8,7 +8,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-blah
+blah | blah | blah | blah
 
 
 ```markdown
