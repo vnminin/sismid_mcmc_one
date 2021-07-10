@@ -6,7 +6,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ### Intorduction to Bayesian inference and Gibbs sampling
 
-Slides/Notes | Practicals | Videos | Code
+```Slides/Notes``` | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
 slides_bayesintro.pdf | PracticalBayes.pdf | some video | bayesintro2021.R
 
