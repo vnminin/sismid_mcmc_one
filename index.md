@@ -4,13 +4,13 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ## Logistics
 
-:date: **Time:** July 14, 11:30 am - 2:30 pm, July 15-16, 8:00 am - 2:30 pm
+**Time:** July 14, 11:30 am - 2:30 pm, July 15-16, 8:00 am - 2:30 pm :date: 
 
-:desktop_computer: **Place:** Zoom (link is coming soon)
+ **Place:** Zoom (link is coming soon) :desktop_computer:
 
-:man_scientist: :woman_scientist: :man_scientist:**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
+**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)  :man_scientist: :woman_scientist: :man_scientist:
 
-## Course materials
+## Course materials :blue_book:
 
 ### Intorduction to Bayesian inference and Gibbs sampling
 
