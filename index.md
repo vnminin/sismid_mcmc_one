@@ -8,7 +8,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **Place:** Zoom (link is coming soon)
 
-**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
+**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen) ![](https://github.com/vnminin/sismid_mcmc_one/blob/main/ka_email.png), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)
 
 ## Course materials
 
