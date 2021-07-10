@@ -42,13 +42,13 @@ Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### Chain binomial model revisited 
+ ### Chain binomial model revisited :chains:
  
  Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### General epidemic model
+ ### General epidemic model :zombie:
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
