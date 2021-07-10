@@ -42,19 +42,19 @@ Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### Chain binomial model revisited :chains:
+### Chain binomial model revisited :chains:
  
  Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### General epidemic model 🧟
+### General epidemic model 🧟
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  |  |  | 
  
- ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
+### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
