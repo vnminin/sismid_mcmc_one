@@ -63,13 +63,15 @@ Slides/Notes | Practicals | Videos | Code
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
- |  |  | 
+sir_lecture.pdf | sir-lab.pdf | sir_video | SIRaugmentation_reduced.R
+|  |  | SIRaugmentation.R
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
   Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
- |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 21-22) | diagnostics-lab.pdf |  | diagnostics_reduced.R
+ | | | diagnostics.R
  
 ## Useful Books: 📘
 - A.A. Johnson, M. Ott, M. Dogucu. [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com), 2021.
