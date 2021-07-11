@@ -16,7 +16,9 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/slides_bayesintro21.pdf) | PracticalBayes.pdf | some video | bayesintro2021.R
+[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/slides_bayesintro21.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/PracticalBayes12021.pdf) | some video | [bayesintro2021.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/bayesintro2021.R)
+| | | [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs_reduced.R)
+| | | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs.R)
 
 ### Classical Monte Carlo and Markov chain theory :diamonds: :spades: :hearts: :clubs: :game_die: 
 
