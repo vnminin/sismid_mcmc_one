@@ -63,12 +63,13 @@ Slides/Notes | Practicals | Videos | Code
  |  |  | 
  
 ## Useful Books: 📘
+- A.A. Johnson, M. Ott, M. Dogucu. [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com), 2021.
 - C.P. Robert and G. Casella. Monte Carlo statistical methods, 2nd edition, Springer-Verlag, 2004.
 - C.P. Robert and G. Casella. Introducing Monte Carlo methods with R, Springer-Verlag, 2009. (a more hands-on version of the first book by the same authors)
 - J. Albert. Bayesian computation with R, 2nd edition, Springer-Verlag, 2009.
 - P. Brémaud. Markov chains: Gibbs fields, Monte Carlo simulation, and queues, Springer-Verlag, 1999.
 
 ## Other Resources: 🗒️
-- L. Tierney. Markov Chains for Exploring Posterior Distributions, Annals of Statistics, 22, 1701-1762, 1994.
-- S. Chib. and E. Greenberg. Understanding the Metropolis-Hastings Algorithm, The American Statistician, 49, 327-335, 1995.
-- G. Casella and E.I. George. Explaining the Gibbs Sampler, The American Statistician, 46, 167-174, 1992.
+- L. Tierney. [Markov Chains for Exploring Posterior Distributions, Annals of Statistics](https://projecteuclid.org/journals/annals-of-statistics/volume-22/issue-4/Markov-Chains-for-Exploring-Posterior-Distributions/10.1214/aos/1176325750.full), 22, 1701-1762, 1994.
+- S. Chib. and E. Greenberg. [Understanding the Metropolis-Hastings Algorithm](https://www.jstor.org/stable/2684568?seq=1#metadata_info_tab_contents), The American Statistician, 49, 327-335, 1995.
+- G. Casella and E.I. George. [Explaining the Gibbs Sampler](https://www.jstor.org/stable/2685208?seq=1#metadata_info_tab_contents), The American Statistician, 46, 167-174, 1992.
