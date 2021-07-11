@@ -33,7 +33,8 @@ Slides/Notes | Practicals | Videos | Code
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 14-18) |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/mh-lab.pdf) |  | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh_reduced.R)
+ | | | [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh.R)
  
 ### Gibbs sampling and chain binomial model :chains:
 
