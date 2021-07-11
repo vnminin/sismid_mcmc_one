@@ -12,7 +12,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ## Course materials :open_book:
 
-### Intorduction to Bayesian inference and Gibbs sampling
+### Intorduction to Bayesian inference and Gibbs sampling :telescope:
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
