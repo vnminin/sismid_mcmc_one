@@ -24,7 +24,7 @@ Slides/Notes | Practicals | Videos | Code
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pp. 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/import-sampling-lab.pdf)  |  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/import_sampl_reduced.R)
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/import-sampling-lab.pdf)  |  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/import_sampl_reduced.R)
  | | | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/import_sampl.R)
  | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/ehrenfest-diff-lab.pdf) | | [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/ehrenfest_diff_reduced.R)
   | | | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/ehrenfest_diff.R)
@@ -33,19 +33,19 @@ Slides/Notes | Practicals | Videos | Code
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
- |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 14-18) |  |  | 
  
 ### Gibbs sampling and chain binomial model :chains:
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
- |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) |  |  | 
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
- |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) |  |  | 
  
 ### Chain binomial model revisited :chains:
  
