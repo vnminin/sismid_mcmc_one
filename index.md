@@ -46,7 +46,8 @@ Slides/Notes | Practicals | Videos | Code
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) | betabin-lab.pdf |  | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin_reduced.R)
+ | | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin.R)
  
 ### Chain binomial model revisited :chains:
  
