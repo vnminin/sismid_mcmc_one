@@ -40,7 +40,7 @@ Slides/Notes | Practicals | Videos | Code
 
 Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) |  |  | 
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) |  |  | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs.R)
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
