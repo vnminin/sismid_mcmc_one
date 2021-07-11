@@ -54,10 +54,10 @@ Slides/Notes | Practicals | Videos | Code
  Slides/Notes | Practicals | Videos | Code
 ------------ | ---------- | ------ | ----
  [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/chain_bin_revisited.pdf) | [hierarchical-chain-bin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/hierarchical-chain-bin-lab.pdf) | [model_checking_video](https://drive.google.com/file/d/1I1RjCgsWiNCEBW-Co1PijqEZoopdUBl1/view?usp=sharing) | [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/checkmodel_reduced.R)
-  | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/checkmodel.R)
-    | | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chain_hierarchical_reduced.R)
-    | | | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chain_hierarchical.R)
-    | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/check_hierarchical.R)
+ | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/checkmodel.R)
+ | | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chain_hierarchical_reduced.R)
+ | | | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chain_hierarchical.R)
+ | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/check_hierarchical.R)
  
 ### General epidemic model 🧟
  
