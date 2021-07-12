@@ -18,7 +18,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ### Intorduction to Bayesian inference and Gibbs sampling :telescope:
 
-Slides/Notes | Practicals | Videos | Code
+Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/slides_bayesintro21.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/PracticalBayes12021.pdf) | [bayes_intro_video](https://washington.zoom.us/rec/play/RvYq4BK49oPlH0AJYyjfHP48JFi--hfFi19Rrghn9LW-qDsLs7EqgCmfPoSUBeMD8P-hXXW__gJWViDj.obIBmHtQoDTVftJf?continueMode=true&_x_zm_rtaid=WSdjZ4usTqyureTAbHWQhw.1626030450428.bfed32a6a2854cabd1c141f54da54f87&_x_zm_rhtaid=334) | [bayesintro2021.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/bayesintro2021.R)
  | | |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs_reduced.R)
@@ -35,27 +35,27 @@ Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code
 
 ### Metropolis-Hastings algorithm :frog:
 
-Slides/Notes | Practicals | Videos | Code
+Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/mh-lab.pdf) |  | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh_reduced.R)
  | | | [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh.R)
  
 ### Gibbs sampling and chain binomial model :chains:
 
-Slides/Notes | Practicals | Videos | Code
+Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) |  |  | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs.R)
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
-Slides/Notes | Practicals | Videos | Code
+Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/betabin-lab.pdf) |  | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin_reduced.R)
  | | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin.R)
  
 ### Chain binomial model revisited :chains:
  
- Slides/Notes | Practicals | Videos | Code
+ Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
  [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/chain_bin_revisited.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/hierarchical-chain-bin-lab.pdf) | [model_checking](https://drive.google.com/file/d/1I1RjCgsWiNCEBW-Co1PijqEZoopdUBl1/view?usp=sharing) | [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/checkmodel_reduced.R)
  | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/checkmodel.R)
@@ -65,14 +65,14 @@ Slides/Notes | Practicals | Videos | Code
  
 ### General epidemic model 🧟
  
-  Slides/Notes | Practicals | Videos | Code
+  Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 sir_lecture.pdf | sir-lab.pdf | sir_video | SIRaugmentation_reduced.R
 |  |  | SIRaugmentation.R
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
-  Slides/Notes | Practicals | Videos | Code
+ Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 21-22) | diagnostics-lab.pdf |  | diagnostics_reduced.R
  | | | diagnostics.R
