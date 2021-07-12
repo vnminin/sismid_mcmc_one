@@ -10,7 +10,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.utu.fi/en/people/kari-auranen), [Vladimir Minin](vnminin.github.io)  :man_scientist: :woman_scientist: :man_scientist:
 
-**Schedule:**: [mcmc_time_table.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/2021_SISMID_Module8_Time_Table.pdf)
+**Schedule:**: [mcmc_time_table.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/2021_SISMID_Module8_Time_Table.pdf) :alarm_clock:
 
 **R tutorials**: [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf), [Swirl (Learn R, in R)](https://swirlstats.com), [SISMID/SISG Introduction to R](http://faculty.washington.edu/kenrice/rintro/index.shtml)
 
@@ -26,7 +26,7 @@ Slides/Notes | Practicals | Videos | Code
 
 ### Classical Monte Carlo and Markov chain theory :diamonds: :spades: :hearts: :clubs: :game_die: 
 
-Slides/Notes | Practicals | Videos | Code
+Slides/Notes :green_book: | Practicals :lab_coat: | Videos :movie_camera: | Code :abacus:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/import-sampling-lab.pdf)  |  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/import_sampl_reduced.R)
  | | | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/import_sampl.R)
