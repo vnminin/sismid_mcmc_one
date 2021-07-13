@@ -18,7 +18,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **Course Introduction:** [pre-recorded video](https://uci.zoom.us/rec/share/IPQOp5MUE4UO2-7I8n3F8rgyM9x83g3yTbYfEMkt6T4_AFQ-wG3yTOckKsQ3HOQo.2JO0VIOY0lkluG1X?startTime=1626128435000) :movie_camera:
 
-### Intorduction to Bayesian inference and Gibbs sampling :telescope:
+### Introduction to Bayesian inference and Gibbs sampling :telescope:
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
