@@ -14,12 +14,12 @@
 ##              N3  =  frequency of chains with outbreak size 3 
 ##                      (the total frequency of chains 1->2 and 1->1->1)
 ##
-## OUTPUT mychainGibbs = the MCMC sample of q and n111 as a list
+## OUTPUT chainGibbsUserStart = the MCMC sample of q and n111 as a list
 ##                     of two entries, each a vector of length mcmc.size
 ## 
 ## Last updated July 11, 2021/ MEH
 #################################################################################
-mychainGibbs = function(n1,n11,N3,mcmc.size,alpha,beta){
+chainGibbsUserStart = function(n1,n11,N3,mcmc.size,alpha,beta){
 # Reserve space
 q    = rep(0,mcmc.size)
 n111 = rep(0,mcmc.size)
