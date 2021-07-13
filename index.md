@@ -12,7 +12,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **Schedule:**: [mcmc_time_table.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/2021_SISMID_Module8_Time_Table.pdf) :alarm_clock:
 
-**R tutorials**: [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf), [Swirl (Learn R, in R)](https://swirlstats.com), [SISMID/SISG Introduction to R](http://faculty.washington.edu/kenrice/rintro/index.shtml)
+**R tutorials**: [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf), [Swirl (Learn R, in R)](https://swirlstats.com), [SISMID/SISG Introduction to R](http://faculty.washington.edu/kenrice/rintro/index.shtml) :school:
 
 ## Course materials :open_book:
 
