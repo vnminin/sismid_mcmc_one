@@ -65,12 +65,12 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  | | | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chain_hierarchical.R)
  | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/check_hierarchical.R)
  
-### General epidemic model 🧟
+### General epidemic (SIR) model 🧟
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-sir_lecture.pdf | sir-lab.pdf | sir_video | SIRaugmentation_reduced.R
-|  |  | SIRaugmentation.R
+[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/sir_lecture.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/sir-lab.pdf) |  | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/SIRaugmentation_reduced.R)
+|  |  | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/SIRaugmentation.R)
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
