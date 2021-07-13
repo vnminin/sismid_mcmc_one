@@ -49,7 +49,7 @@ mychainGibbs = list(q=q,n111=n111)
 
 ## mcmc-size = 5000, alpha = 1, beta = 1
 
-test1=mychainGibbs(34,25,275,5000,1,1)
+test1=chainGibbsUserStart(34,25,275,5000,1,1)
 
 # Assume a burn-in of 500 iterations. 
 
