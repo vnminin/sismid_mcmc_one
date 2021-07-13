@@ -8,7 +8,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
  **Place:** Zoom (link is coming soon) :desktop_computer:
 
-**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.fredhutch.org/en/faculty-lab-directory/halloran-elizabeth.html), [Vladimir Minin](vnminin.github.io)  :man_scientist: :woman_scientist: :man_scientist:
+**Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.fredhutch.org/en/faculty-lab-directory/halloran-elizabeth.html), [Vladimir Minin](https://vnminin.github.io)  :man_scientist: :woman_scientist: :man_scientist:
 
 **Schedule:**: [mcmc_time_table.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/2021_SISMID_Module8_Time_Table.pdf) :alarm_clock:
 
