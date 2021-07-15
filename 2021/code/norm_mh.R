@@ -18,7 +18,7 @@ unif_rw_next = function(cur_value, tuning_par){
 
   prop_value = cur_value + runif(1, min=-tuning_par, max=tuning_par)
 
-  if (log(runif(1)) < (cur_value^2 - prop_value^2)/2){
+  if (runif(1) < dnorm(prop_value)/dnorm(cur_value)){
     return_value = c(prop_value, 1)
   }
 
@@ -37,7 +37,7 @@ mcmc_out_small_jumps[1,] = cur_state
 
 for (i in 2:mcmc_size){
 
-  mcmc_out_small_jumps[i,] = unif_rw_next(mcmc_out_small_jumps[i-1,1], 5.0)
+  mcmc_out_small_jumps[i,] = unif_rw_next(mcmc_out_small_jumps[i-1,1], 0.05)
 }
 
 ## acceptance probability
@@ -63,7 +63,7 @@ mcmc_out_large_jumps[1,] = cur_state
 
 for (i in 2:mcmc_size){
 
-  cur_state = unif_rw_next(mcmc_out_large_jumps[i-1,1], 500)
+  cur_state = unif_rw_next(mcmc_out_large_jumps[i-1,1], 50)
 
   mcmc_out_large_jumps[i,] = cur_state
 }
