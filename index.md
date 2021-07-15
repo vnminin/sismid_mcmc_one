@@ -45,6 +45,8 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/mh-lab.pdf) |  | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh_reduced.R)
  | | | [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/norm_mh.R)
+ | | | [infect_time_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/infect_time_reduced.R)
+ | | | [infect_time.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/infect_time.R)
  
 ### Gibbs sampling and chain binomial model :chains:
 
