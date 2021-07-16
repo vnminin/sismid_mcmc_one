@@ -2,7 +2,7 @@
 ## approximating the posterior distribution of the time of infection
 ## in a simple SIS model
 ## Author: Vladimir N. Minin
-## last update: 07/19/2020
+## last update: 07/11/2021
 
 #' Compute log-likelihood of the disease trajectory of an individual who starts susceptible and become infected during the observation time period
 #' 
@@ -19,7 +19,7 @@ sis_log_like = function(inf_time, inf_rate, clear_rate, total_time){
  return(log(inf_rate) - inf_rate*inf_time - clear_rate*(total_time-inf_time))
 }
 
-#' Compute log-likelihood of the disease trajectory of an individual who starts suscepible and become infected during the observation time period
+#' Compute log-likelihood of the disease trajectory of an individual who starts susceptible and become infected during the observation time period
 #' 
 #' @param cur_inf_time Current infection time (in the notes denoted by t_c)
 #' @param inf_rate Infection rate (lambda_1 in the notes)
@@ -35,7 +35,7 @@ sis_proposal = function(cur_inf_time, total_time, win_half_len){
   new_inf_time = cur_inf_time + runif(1,-win_half_len, win_half_len)
    
   if (new_inf_time < 0){
-     new_inf_time = - new_inf_time
+     new_inf_time = -new_inf_time
   }else{
     if (new_inf_time > total_time){
       new_inf_time = 2*total_time - new_inf_time 
@@ -90,9 +90,9 @@ inf_time_mcmc = function(start_inf_time, inf_rate, clear_rate, total_time, win_h
 
 ## run the above functions
 
-test_sample = inf_time_mcmc(start_inf_time=0.1, inf_rate=0.2, clear_rate=2, total_time=1.0, win_half_len=0.2, chain_len=10000)
+test_sample = inf_time_mcmc(start_inf_time=0.1, inf_rate=0.1, clear_rate=10.0, total_time=1.0, win_half_len=0.2, chain_len=10000)
 
 summary(test_sample[1000:10000,])
 
 hist(test_sample[1000:10000,1])
-plot(c(1000:10000), test_sample[1000:10000,2], type="l")
+plot(c(1000:10000), test_sample[1000:10000,1], type="l")
