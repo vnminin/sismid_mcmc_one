@@ -82,7 +82,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 21-22) | diagnostics-lab.pdf |  | diagnostics_reduced.R
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 21-22) | [diagnostics-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/diagnostics-lab.pdf) |  | diagnostics_reduced.R
  | | | diagnostics.R
  
 ## Useful Books: 📘
