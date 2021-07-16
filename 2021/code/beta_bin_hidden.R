@@ -188,7 +188,7 @@ mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_
 
 ## run the sampler
 
-rat_data = read.table("https://raw.githubusercontent.com/vnminin/SISMID_MCMC_I/master/2020/code/rat_tumor.txt", header=TRUE)
+rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/rat_tumor.txt", header=TRUE)
 
 
 rat_results = mcmc_sampler(my_data=rat_data,
