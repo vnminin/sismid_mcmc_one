@@ -435,3 +435,87 @@ hist(retain.sample$gam,xlab="gamma (per day)",main=" ")
 par(mfrow=c(1,1))
 hist(retain.sample$bet/retain.sample$gam,main="",xlab='R0 (=beta/gamma)')
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sampleSIR_set_init = function(remtimes,M,mcmc.size, init_bet = 0.01, init_gam = 0.01){
+   #
+   # This function draws samples from the joint posterior 
+   # distribution of the two model parameters ('beta' and 'gamma') and 
+   # the unobserved infection times in the general epidemic model with
+   # observed removal times.
+   # 
+   # The time origin t=0 is taken to be the time when the index
+   # case becomes infected. The index case's removal time is the
+   # first one in the input vector 'remtimes'.
+   #
+   # The analysis is based on augmenting the set of model unknowns 
+   # with the unobserved infection times. The infection and removal times
+   # are implemented as *individual-based* event histories. This affects 
+   # the choice of the form of the likelihood: see the lecture notes 
+   # and the instructions to this exercise.
+   #
+   # INPUT  remtimes  = the removal times (in ascending order)
+   #        M         = the total number of individuals in the community
+   #        mcmc.size = the number of MCMC iterations to be performed
+   #
+   # OUTPUT sampleSIR = a (mcmc.size)x2 matrix, the columns including the MCMC 
+   #                    samples of parameters 'beta' and 'gamma'
+   #
+   # This function calls subroutines initializedata.R, update_beta.R, 
+   # update_gamma.R, and update_inftimes.R.
+   
+   # (a) Reserve space for the MCMC output
+   mcmc.samples           = matrix(0,mcmc.size,2) 
+   mcmc.samples           = as.data.frame(mcmc.samples)
+   colnames(mcmc.samples) = c("beta","gamma")
+   
+   # (b) Initialize the model unknowns
+   bet          = init_bet # infection rate
+   gam          = init_gam # recovery rate
+   completedata = initializedata(remtimes) # initialize the complete data matrix
+   # with 2 columns: infection times and
+   # removal times
+   
+   # Store the initial values
+   mcmc.samples[1,]$beta  = bet
+   mcmc.samples[1,]$gamma = gam
+   
+   # The MCMC iterations
+   for (i in 2:mcmc.size){
+      
+      # Update the parameters and the unknown infection times 
+      bet          = update_beta(completedata,M)             # (c) parameter beta
+      gam          = update_gamma(completedata)              # (d) parameter gamma
+      completedata = update_inftimes(completedata,M,bet,gam) # (e) unobserved infection times
+      
+      # Store the current iterates for 'beta' and 'gamma'
+      mcmc.samples[i,]$beta  = bet
+      mcmc.samples[i,]$gamma = gam
+      
+   }
+   
+   # Return the MCMC sample of the two model parameters
+   return(mcmc.samples)
+   
+}
+
