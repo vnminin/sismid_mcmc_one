@@ -52,7 +52,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/PracticalChain_binomial12021.pdf) |  | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs.R)
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/PracticalChain_binomial12021.pdf) | [gibbs_lecture_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626447489000) | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/chainGibbs.R)
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
