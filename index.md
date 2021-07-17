@@ -58,7 +58,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/betabin-lab.pdf) |  | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin_reduced.R)
+[mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/betabin-lab.pdf) | [beta_bin_lab_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626451720000) | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin_reduced.R)
  | | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/beta_bin.R)
  
 ### Chain binomial model revisited :chains:
