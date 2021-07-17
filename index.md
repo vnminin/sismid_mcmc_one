@@ -83,7 +83,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2021.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/lectures/mc_mcmc2021.pdf) (pages 21-22) | [diagnostics-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/labs/diagnostics-lab.pdf) |  | [diagnostics_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/diagnostics_reduced.R)
- | | | diagnostics.R
+ | | | [diagnostics.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2021/code/diagnostics.R)
  
 ## Useful Books: 📘
 - A.A. Johnson, M. Ott, M. Dogucu. [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com), 2021.
