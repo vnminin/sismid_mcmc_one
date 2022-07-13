@@ -1,6 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-theme-cayman
 title: SISMID Module 8 2022
 description: MCMC I for Infectious Diseases
+theme: jekyll-theme-cayman
 plugins:
   - jemoji
