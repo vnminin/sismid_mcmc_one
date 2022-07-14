@@ -6,7 +6,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **Time:** July 18-19, 8:00 am - 2:30 pm, July 20, 8:00 am - 11:00 am :date: 
 
- **Place:** [https://uci.zoom.us/j/93113380619](https://uci.zoom.us/j/93113380619)  :desktop_computer:
+ **Place:** [https://uci.zoom.us/j/99078849451](https://uci.zoom.us/j/93113380619) (check Slack for passcode) :desktop_computer:
 
 **Instructors:** [Kari Auranen](https://www.utu.fi/en/people/kari-auranen), [M. Elizabeth Halloran](https://www.fredhutch.org/en/faculty-lab-directory/halloran-elizabeth.html), [Vladimir Minin](https://vnminin.github.io)  :man_scientist: :woman_scientist: :man_scientist:
 
