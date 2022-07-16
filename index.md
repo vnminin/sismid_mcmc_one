@@ -66,16 +66,16 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/chain_bin_revisited-SISMID2022.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/hierarchical-chain-bin-lab-SISMID2022.pdf) |  | [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel_reduced.R)
  | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel.R)
  | | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical_reduced.R)
- | |  [model_check_lab_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626464195000) | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical.R)
+ | |  | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical.R)
  | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/check_hierarchical.R)
  
 ### General epidemic (SIR) model 🧟
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/sir_lecture.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/sir-lab.pdf) | [sir_lecture](https://drive.google.com/file/d/1BHzLlf_P03_-yTc-twXRb4vToupRo9ik/view?usp=sharing) | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
-|  | [sir_lecture_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626464462000) | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
-|  | [sir_lab_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626466780000) |
+[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/sir-lab.pdf) | | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
+|  | | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
+|  |  |
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
