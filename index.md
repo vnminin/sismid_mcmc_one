@@ -23,7 +23,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
 [slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/slides_bayesintro22bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalBayes12022.pdf) | [bayes_intro_lecture](https://washington.zoom.us/rec/play/CuixXE9-EGzMfDiPFzmU6ylOfT_YRQoPRFe9jyXRz-RwJ7Lesui_e09qOvvDRdu6qo-aI4zUa2UJ7rw.CnP9VHSsK5FDj-Td?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) | [bayesintro2022.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/bayesintro2022.R)
- |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalChain_binomial1.pdf) |  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs_reduced.R)
+ |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalChain_binomial12022.pdf) |  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs_reduced.R)
   | | [chain-binomial Gibbs sampler](https://washington.zoom.us/rec/play/3-CMvbR4_laAi9qG7d5wMF9vlbRv8d754nzhnv7n_agvJW600u5nT8xDrG-f6Qq_US0XYgrX9EO7aecc.uWwM00kuOUVUVG_8?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs.R)
   
   
@@ -73,7 +73,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/sir-lab.pdf) | | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
+[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/SIR-lab-SISMID2022.pdf) | | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
 |  | | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
 |  |  |
  
