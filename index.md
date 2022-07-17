@@ -84,6 +84,14 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 [mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 21-22) | [diagnostics-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/diagnostics-lab.pdf) |  | [diagnostics_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/diagnostics_reduced.R)
  | | | [diagnostics.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/diagnostics.R)
  
+ ### SIS model 🧟:office_worker:🧟
+ 
+Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
+------------ | ---------- | ------ | ----
+[sis_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sis-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/SIS-lab-SISMID2022.pdf) | | [simulateSIS_N.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/simulateSIS_N.R)
+|  | | [MH_SIS.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/MH_SIS.R)
+|  |  |
+ 
 ## Useful Books: 📘
 - A.A. Johnson, M. Ott, M. Dogucu. [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com), 2022.
 - C.P. Robert and G. Casella. Monte Carlo statistical methods, 2nd edition, Springer-Verlag, 2004.
