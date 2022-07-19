@@ -17,6 +17,7 @@
 unif_rw_next = function(cur_value, tuning_par){
 
   return_value = c(cur_value, 0)
+#  return_value = c(prop_value, 1)
 
   return(return_value)
 }

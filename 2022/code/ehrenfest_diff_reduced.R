@@ -5,12 +5,12 @@
 #' Generate the next state of the Ehrenfest diffusion model
 #'
 #' @param cur_state Current state of the Ehrenfest diffusion model
-#' @param num_mol Total number of moleculers in the Ehrenfest diffusion model
+#' @param num_mol Total number of molecules in the Ehrenfest diffusion model
 #'
 #' @return an integer that is either (cur_state+1) or (cur_state-1)
 #'
 #' @examples
-#' next_state(32, 1000)
+#' next_state(32, 100)
 next_state = function(cur.state, num.mol){
   return.value=NULL
 
