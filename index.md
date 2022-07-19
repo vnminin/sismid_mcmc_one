@@ -35,7 +35,10 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/import-sampling-lab.pdf)  | [monte_carlo_lecture_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658165450000)  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl_reduced.R)
- | | [imp_sample_lecture_lab_live](https://uci.zoom.us/rec/share/r_YnzamAOdhqL_A1zwcl-2hPnddeCpxX43iQ2oRq1UCUw4zpk00lLJCKlNikJf3N.KxDdEjDW208z81ZB?startTime=1658169068000) | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl.R)
+ | | [imp_sampl_lecture_lab_live](https://uci.zoom.us/rec/share/r_YnzamAOdhqL_A1zwcl-2hPnddeCpxX43iQ2oRq1UCUw4zpk00lLJCKlNikJf3N.KxDdEjDW208z81ZB?startTime=1658169068000) | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl.R)
+ | | [imp_sampl_lab_live1](https://uci.zoom.us/rec/share/5DXDfqYRWK6zBQDaNpiXxnVBYApdLCXr-g_qWTjA3kEw_Pom5_wzWl-WnQVSkVjV.pa77AscYxUc5-gov?startTime=1658173062000) |
+ | | [imp_sampl_lab_live2](https://uci.zoom.us/rec/share/5DXDfqYRWK6zBQDaNpiXxnVBYApdLCXr-g_qWTjA3kEw_Pom5_wzWl-WnQVSkVjV.pa77AscYxUc5-gov?startTime=1658175695000) |
+ | | [markov_theory_lecture_live1](https://uci.zoom.us/rec/share/4bkCVHNNckZpveDke1eC9slLjXtrOeEfa99ptCujzNa6f4eAOYczSxnjO96ttwZ3.RDqm-TzEJ4-NNOfu?startTime=1658176948000) | 
  | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/ehrenfest-diff-lab.pdf) |  | [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/ehrenfest_diff_reduced.R)
   | |  | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/ehrenfest_diff.R)
 
