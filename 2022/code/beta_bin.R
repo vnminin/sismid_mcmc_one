@@ -118,7 +118,7 @@ log_beta_posterior = function(my_alpha, my_beta, theta_vec, my_data, sample_size
 #' @return matrix with rows corresponding to saved MCMC iterations and the columns recording 1) iteration index; 2) values of the log-posterior; 3) value of alpha; 4) value of beta; 5) binary indicator of proposed alpha acceptance; 6) binary indicator of proposed alpha acceptance; 7-77) values of binomial success probabilities theta[1:71]
 #'
 #' @examples mcmc_output = mcmc_sampler(my_data=rat_data, init_alpha=1.0, init_beta=1.0, prior_rate_alpha=0.1, prior_rate_beta=0.1, tuning_alpha=0.7, tuning_beta=0.7, mcmc_size=110000, mcmc_burnin=10000, mcmc_subsample=10)
-mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_rate_beta, tuning_alpha, tuning_beta, mcmc_size, mcmc_burnin,mcmc_subsample){
+mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_rate_beta, tuning_alpha, tuning_beta, mcmc_size, mcmc_burnin, mcmc_subsample){
 
   data_sample_size = dim(my_data)[1]
 
@@ -188,7 +188,7 @@ mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_
 
 ## run the sampler
 
-rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/rat_tumor.txt", header=TRUE)
+rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/rat_tumor.txt", header=TRUE)
 
 
 rat_results = mcmc_sampler(my_data=rat_data,
