@@ -25,8 +25,8 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 [slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/slides_bayesintro22bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalBayes12022.pdf) | [bayes_intro_lecture](https://washington.zoom.us/rec/play/CuixXE9-EGzMfDiPFzmU6ylOfT_YRQoPRFe9jyXRz-RwJ7Lesui_e09qOvvDRdu6qo-aI4zUa2UJ7rw.CnP9VHSsK5FDj-Td?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) | [bayesintro2022.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/bayesintro2022.R)
  |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalChain_binomial12022.pdf) | [bayes_intro_lecture_live](https://uci.zoom.us/rec/share/OW8eFiT7aoIwwBfk0YJjFcsRyr_s7BSZqFLm-ETI0-SuyQmNPAdHlcFx4yrTMRZg.s6GiIRchth6RUogI?startTime=1658158255000)  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs_reduced.R)
   | | [chain-binomial Gibbs sampler](https://washington.zoom.us/rec/play/3-CMvbR4_laAi9qG7d5wMF9vlbRv8d754nzhnv7n_agvJW600u5nT8xDrG-f6Qq_US0XYgrX9EO7aecc.uWwM00kuOUVUVG_8?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs.R)
-  | | |[chain_binomial_lecture_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658160728000) |
-  | | |[chain_binomial_lab_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658163912000) |
+  | | [chain_binomial_lecture_live] |(https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658160728000) | 
+  | | [chain_binomial_lab_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658163912000) | 
   
   
 
@@ -35,7 +35,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/import-sampling-lab.pdf)  | [monte_carlo_lecture_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658165450000)  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl_reduced.R)
- | |  | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl.R)
+ | | [imp_sample_lecture_lab_live](https://uci.zoom.us/rec/share/r_YnzamAOdhqL_A1zwcl-2hPnddeCpxX43iQ2oRq1UCUw4zpk00lLJCKlNikJf3N.KxDdEjDW208z81ZB?startTime=1658169068000) | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/import_sampl.R)
  | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/ehrenfest-diff-lab.pdf) |  | [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/ehrenfest_diff_reduced.R)
   | |  | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/ehrenfest_diff.R)
 
