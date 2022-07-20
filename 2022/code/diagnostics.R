@@ -7,7 +7,7 @@ library(coda)
 library(mcmcse)
 
 ## now let's load our M-H and Gibbs sampler examples
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/chainGibbs.R")
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/chainGibbs.R")
 dev.off()
 
 ## run one M-H example chain
@@ -58,11 +58,39 @@ gelman.diag(coda_gibbs_list)
 gelman.plot(coda_gibbs_list)
 
 
-## Exercise: perform diagnostics for SIR data augmentatkon MCMC
+## Exersise: perform diagnostics for SIR data augmentatkon MCMC
 
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/SIRaugmentation.R")
-
-## calling the above script produced mcmc.sample matrix 
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/SIRaugmentation.R")
 
 coda_sir_chain = mcmc(mcmc.sample) 
+
+summary(coda_sir_chain)
+
+mcse.q.mat(coda_sir_chain, 0.025)
+mcse.q.mat(coda_sir_chain, 0.975)
+
+plot(coda_sir_chain)
+
+## plot autocorrelations plots
+autocorr.plot(coda_sir_chain)
+
+## calculate effective sample size
+effectiveSize(coda_sir_chain)
+
+
+coda_sir_chains = list()
+
+for (i in 1:50){
+  sir_chain = sampleSIR_set_init(remtimes,M=120,600, rexp(1), rexp(1))
+  coda_sir_chains[[i]] = mcmc(sir_chain)
+}
+
+coda_sir_list = mcmc.list(coda_sir_chains)
+
+plot(coda_sir_list)
+
+## compute and plot Gelman-Rubin potential reduction factor
+gelman.diag(coda_sir_list)
+
+gelman.plot(coda_sir_list)
 
