@@ -7,7 +7,7 @@ library(coda)
 library(mcmcse)
 
 ## now let's load our M-H and Gibbs sampler examples
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/chainGibbs.R")
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/chainGibbs.R")
 dev.off()
 
 ## run one M-H example chain
@@ -60,7 +60,7 @@ gelman.plot(coda_gibbs_list)
 
 ## Exersise: perform diagnostics for SIR data augmentatkon MCMC
 
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/SIRaugmentation.R")
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/SIRaugmentation.R")
 
 coda_sir_chain = mcmc(mcmc.sample) 
 
