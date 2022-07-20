@@ -46,22 +46,22 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/mh-lab.pdf) | [lecture_and_mh_lab_live](https://uci.zoom.us/rec/share/EjiIQD9dbX0rg1VA6ndtRMGfwEdNDlzrnp8vZPfw6AqAVo9w9H1YwIKglY9HmnXn.G4XL-II3UmG1bwZt?startTime=1626374418000)  | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/norm_mh_reduced.R)
+[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/mh-lab.pdf) | [mh_lab_live](https://uci.zoom.us/rec/share/Sroi0GWkXcLahzJr7RTCK6hkmqPkGoSoQuBhwi-v_saN38s3GyG4WFKA6qWJ6myH.lzwMjqo3LlwHxjZs?startTime=1658251330000)  | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/norm_mh_reduced.R)
  | |  | [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/norm_mh.R)
- | | | [infect_time_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/infect_time_reduced.R)
+ | | [infect_time_gibbs_live](https://uci.zoom.us/rec/share/Sroi0GWkXcLahzJr7RTCK6hkmqPkGoSoQuBhwi-v_saN38s3GyG4WFKA6qWJ6myH.lzwMjqo3LlwHxjZs?startTime=1658256861000) | [infect_time_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/infect_time_reduced.R)
  | | | [infect_time.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/infect_time.R)
  
 ### Gibbs sampling and chain binomial model :chains:
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalChain_binomial12022.pdf) | [gibbs_lecture_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626447489000) | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs.R)
+[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/PracticalChain_binomial12022.pdf) |  | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chainGibbs.R)
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/betabin-lab.pdf) | [beta_bin_lab_live](https://uci.zoom.us/rec/share/OvSE-lCStdtAMgVawHCn4gJKfYe4NtTQnnVzGXDzZv0CvGMQO0Xq01CsIIenJZvM.GrFYDc_m56JofQg0?startTime=1626451720000) | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/beta_bin_reduced.R)
+[mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/betabin-lab.pdf) | [beta_bin_lab_live](https://uci.zoom.us/rec/share/Sroi0GWkXcLahzJr7RTCK6hkmqPkGoSoQuBhwi-v_saN38s3GyG4WFKA6qWJ6myH.lzwMjqo3LlwHxjZs?startTime=1658263519000) | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/beta_bin_reduced.R)
  | | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/beta_bin.R)
  
 ### Chain binomial model revisited :chains:
