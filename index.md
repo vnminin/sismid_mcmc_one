@@ -74,7 +74,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  | |  | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical.R)
  | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/check_hierarchical.R)
  
-### General epidemic (SIR) model :zombie:
+### General epidemic (SIR) model :zombie_man:
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
@@ -89,7 +89,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 [mc_mcmc2022.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/mc_mcmc2022.pdf) (pages 21-22) | [diagnostics-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/diagnostics-lab.pdf) | [diagnostics_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658337387000)  | [diagnostics_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/diagnostics_reduced.R)
  | | | [diagnostics.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/diagnostics.R)
  
-### SIS model :office_worker: :zombie: :office_worker:
+### SIS model :office_worker: :zombie_woman: :office_worker:
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
