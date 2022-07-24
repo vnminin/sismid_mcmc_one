@@ -74,7 +74,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  | |  | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical.R)
  | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/check_hierarchical.R)
  
-### General epidemic (SIR) model :zombie_man:
+### General epidemic (SIR) model :zombie:
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
