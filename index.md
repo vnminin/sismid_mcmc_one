@@ -79,7 +79,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
 [sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/SIR-lab-SISMID2022.pdf) | | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
-|  | | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
+|  | [sir_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658333200000) | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
 |  |  |
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
