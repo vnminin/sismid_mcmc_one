@@ -154,8 +154,10 @@ mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_
 
     ## Metropolis step for beta
     new_beta = propose_pospar(cur_beta, runif(1), tuning_beta)
+    
     log_acc_beta = log_beta_posterior(cur_alpha, new_beta, cur_theta, my_data, data_sample_size, prior_rate_beta)-log_beta_posterior(cur_alpha, cur_beta, cur_theta, my_data, data_sample_size, prior_rate_beta)+log_prop_dens(cur_beta)-log_prop_dens(new_beta)
-    if (log(runif(1)) < log_acc_beta){
+   
+     if (log(runif(1)) < log_acc_beta){
       cur_beta = new_beta
       cur_beta_acc = 1
     }
