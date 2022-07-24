@@ -68,8 +68,8 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
- [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/chain-bin-revisited-SISMID2022.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/hierarchical-chain-bin-lab-SISMID2022.pdf) |  | [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel_reduced.R)
- | |[model_check_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658329422000) | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel.R)
+ [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/chain-bin-revisited-SISMID2022.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/hierarchical-chain-bin-lab-SISMID2022.pdf) | [model_check_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658329422000) | [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel_reduced.R)
+ | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/checkmodel.R)
  | | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical_reduced.R)
  | |  | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/chain_hierarchical.R)
  | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/check_hierarchical.R)
@@ -78,8 +78,8 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/SIR-lab-SISMID2022.pdf) | | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
-|  | [sir_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658333200000) | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
+[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/lectures/SIR-lecture-SISMID2022.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/labs/SIR-lab-SISMID2022.pdf) | [sir_live](https://uci.zoom.us/rec/share/HVszKcprjXtn5R637TJq99qwWrUWKcv0GjlFqBjpoKVF2o3q2MYi_xwo8MPSmprx.-mkb4c-nHBNxg1__?startTime=1658333200000) | [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation_reduced.R)
+|  |  | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2022/code/SIRaugmentation.R)
 |  |  |
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
