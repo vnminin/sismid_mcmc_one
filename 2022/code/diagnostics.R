@@ -62,7 +62,7 @@ gelman.plot(coda_gibbs_list)
 
 source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/SIRaugmentation.R")
 
-coda_sir_chain = mcmc(mcmc.sample) 
+coda_sir_chain = mcmc(mcmc.sample)
 
 summary(coda_sir_chain)
 
