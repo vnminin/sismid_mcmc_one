@@ -20,13 +20,11 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 ### Introduction to Bayesian inference and Gibbs sampling :telescope:
 
-Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
+Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/slides_bayesintro22bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalBayes12023.pdf) | [bayes_intro_lecture](https://washington.zoom.us/rec/play/CuixXE9-EGzMfDiPFzmU6ylOfT_YRQoPRFe9jyXRz-RwJ7Lesui_e09qOvvDRdu6qo-aI4zUa2UJ7rw.CnP9VHSsK5FDj-Td?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) | [bayesintro2023.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/bayesintro2023.R)
- |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalChain_binomial12023.pdf) | [bayes_intro_lecture_live](https://uci.zoom.us/rec/share/OW8eFiT7aoIwwBfk0YJjFcsRyr_s7BSZqFLm-ETI0-SuyQmNPAdHlcFx4yrTMRZg.s6GiIRchth6RUogI?startTime=1658158255000)  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs_reduced.R)
-  | | [chain-binomial Gibbs sampler](https://washington.zoom.us/rec/play/3-CMvbR4_laAi9qG7d5wMF9vlbRv8d754nzhnv7n_agvJW600u5nT8xDrG-f6Qq_US0XYgrX9EO7aecc.uWwM00kuOUVUVG_8?continueMode=true&_x_zm_rtaid=RgIMVpKeTvKT32rtXSz3QA.1657861837785.3b26eb1c3cd4a34841594402108ab24b&_x_zm_rhtaid=635) |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs.R)
-  | | [chain_binomial_lecture_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658160728000) | 
-  | | [chain_binomial_lab_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658163912000) | 
+[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/slides_bayesintro22bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalBayes12023.pdf) | [bayesintro2023.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/bayesintro2023.R)
+ |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalChain_binomial12023.pdf)  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs_reduced.R)
+  | |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs.R)
   
   
 
