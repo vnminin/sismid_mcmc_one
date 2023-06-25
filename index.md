@@ -35,7 +35,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 [mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/import-sampling-lab.pdf)  |  [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl_reduced.R)
   | | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl.R)
   | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/ehrenfest-diff-lab.pdf) |  [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff_reduced.R)
-  | | [ehrenfest_ergodic_live](https://uci.zoom.us/rec/share/Sroi0GWkXcLahzJr7RTCK6hkmqPkGoSoQuBhwi-v_saN38s3GyG4WFKA6qWJ6myH.lzwMjqo3LlwHxjZs?startTime=1658248311000) | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff.R)
+  | | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff.R)
 
 ### Metropolis-Hastings algorithm :frog:
 
