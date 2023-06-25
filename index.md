@@ -42,47 +42,46 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 14-18) | [mh-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/mh-lab.pdf) | [norm_mh_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/norm_mh_reduced.R)
- | |  | [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/norm_mh.R)
+ | |  [norm_mh.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/norm_mh.R)
  | |  [infect_time_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/infect_time_reduced.R)
- | | | [infect_time.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/infect_time.R)
+ | | [infect_time.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/infect_time.R)
  
 ### Gibbs sampling and chain binomial model :chains:
 
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalChain_binomial12023.pdf) |  | [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs.R)
+[mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 18-20) | [PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalChain_binomial12023.pdf) |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs.R)
  
 ### Metropolis-Hastings and Gibbs combined :octopus:
 
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 20-21) | [betabin-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/betabin-lab.pdf) | [beta_bin_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_bin_reduced.R)
- | | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_bin.R)
+ | | [beta_bin.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_bin.R)
  
 ### Chain binomial model revisited :chains:
  
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
  [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/chain-bin-revisited-SISMID2023.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/hierarchical-chain-bin-lab-SISMID2023.pdf) |  [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel_reduced.R)
- | | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel.R)
- | | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical_reduced.R)
- | |  | [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical.R)
- | | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/check_hierarchical.R)
+ | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel.R)
+ | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical_reduced.R)
+ | |  [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical.R)
+ | | [check_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/check_hierarchical.R)
  
 ### General epidemic (SIR) model :smile: :sneezing_face: :smile:
  
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
 [sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR-lecture-SISMID2023.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIR-lab-SISMID2023.pdf) |  [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation_reduced.R)
-|  |  | [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation.R)
-|  |  |
+|  |  [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation.R)
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
  
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
 [mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 21-22) | [diagnostics-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/diagnostics-lab.pdf) |  [diagnostics_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/diagnostics_reduced.R)
- | | | [diagnostics.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/diagnostics.R)
+ | | [diagnostics.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/diagnostics.R)
  
 ### SIS model :smile: :sneezing_face: :smile: :sneezing_face: :smile: :sneezing_face: :smile:
  
@@ -90,7 +89,6 @@ Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Co
 ------------ | ---------- | ------ | ----
 [sis_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR-lecture-SISMID2023.pdf) | [sis-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIS-lab-SISMID2023.pdf) | | [simulateSIS_N.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/simulateSIS_N.R)
 |  | | [MH_SIS.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/MH_SIS.R)
-|  |  |
  
 ## Useful Books: 📘
 - A.A. Johnson, M. Ott, M. Dogucu. [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com), 2023.
