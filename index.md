@@ -32,7 +32,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/import-sampling-lab.pdf)  | [monte_carlo_lecture_live](https://uci.zoom.us/rec/share/i9uJIYydzF0d2YxUAslbKDAXs8dP6tgc3IvZJBNM9rIqPlE1C5mzriA9rIStSSzc.h5syxd480dN7k98W?startTime=1658165450000)  | [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl_reduced.R)
+[mc_mcmc2023.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/mc_mcmc2023.pdf) (pages 8-14) | [import-sampling-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/import-sampling-lab.pdf)  |  [imp_sampl_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl_reduced.R)
   | | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl.R)
   | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/ehrenfest-diff-lab.pdf) |  [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff_reduced.R)
   | | [ehrenfest_ergodic_live](https://uci.zoom.us/rec/share/Sroi0GWkXcLahzJr7RTCK6hkmqPkGoSoQuBhwi-v_saN38s3GyG4WFKA6qWJ6myH.lzwMjqo3LlwHxjZs?startTime=1658248311000) | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff.R)
