@@ -16,6 +16,8 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 **R tutorials**: [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf), [Swirl (Learn R, in R)](https://swirlstats.com), [SISMID/SISG Introduction to R](http://faculty.washington.edu/kenrice/rintro/index.shtml) :school:
 
+**Stan installation**: [Stan Installation Instructions](https://vnminin.github.io/sismid_mcmc_one/stan_install_instructions.html) :ice_hockey:
+
 ## Course materials :open_book:
 
 ### Introduction to Bayesian inference and Gibbs sampling :telescope:
