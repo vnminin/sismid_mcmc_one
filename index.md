@@ -38,6 +38,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
   | | [imp_sampl.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/import_sampl.R)
   | [ehrenfest_diff-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/ehrenfest-diff-lab.pdf) |  [ehrenfest_diff_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff_reduced.R)
   | | [ehrenfest_diff.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/ehrenfest_diff.R)
+  | | [beta_monte_carlo.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_monte_carlo.R)
 
 ### Metropolis-Hastings algorithm :frog:
 
