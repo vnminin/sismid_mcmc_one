@@ -75,8 +75,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[intro_to-stan.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/intro_to_stan.pdf)
- | | [beta_binomial_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_binomial_example.Rmd)
+[intro_to-stan.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/intro_to_stan.pdf)   | | [beta_binomial_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_binomial_example.Rmd)
   | | [beta_binom.stan](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_binom.stan)
   | | [stan_sir_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/stan_sir_example.Rmd)
   | | [SIR.stan](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIR.stan)
