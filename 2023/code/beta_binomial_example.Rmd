@@ -1,0 +1,120 @@
+---
+title: "beta_binomial_example"
+author: "Isaac Goldstein"
+date: "2023-06-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+
+```
+# Libraries
+```{r message = FALSE, warning = FALSE}
+library(tidyverse)
+library(tidybayes)
+library(rstan)
+library(posterior)
+set.seed(236)
+options(mc.cores = parallelly::availableCores())
+rstan_options(auto_write = TRUE)
+```
+
+# Data
+```{r}
+rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2022/code/rat_tumor.txt", header=TRUE)
+
+num_obs = dim(rat_data)[1]
+```
+
+# Fitting the model using rstan
+The following code fits the beta_binom.stan model to the rat tumor data.
+The posterior_object contains both the data, as well as parameters specifying the model priors.
+These are all treated as "data" by stan.
+```{r message = FALSE, warning = FALSE}
+posterior_object <- list(priors_only = FALSE,
+                         num_obs = num_obs,
+                         x = rat_data$x,
+                         n = rat_data$n,
+                         lambda_alpha = 0.1,
+                         lambda_beta = 0.1)
+
+chain = 4
+iterations = 1000
+seed = 236
+thin = 1
+
+posterior_fit <- stan(file = "src/beta_binom.stan",
+                  data = posterior_object,
+                  seed = seed,
+                  iter = iterations,
+                  thin = thin,
+                  chain = chain)
+
+```
+
+
+# Assessing MCMC Diagnostics
+
+We can assess the traceplot for the scaled likelihood.
+```{r}
+traceplot(posterior_fit, pars = "lp__")
+
+```
+
+We can also summarise Rhat and effective sample size.
+```{r}
+summary <- posterior_fit %>% 
+           as_draws() %>% 
+           summarise_draws() %>% 
+           summarise(
+             min_rhat = min(rhat),
+             max_rhat = max(rhat),
+             min_ess_bulk = min(ess_bulk),
+             max_ess_bulk = max(ess_bulk),
+             min_ess_tail = min(ess_tail),
+             max_ess_tail = max(ess_tail)
+           )
+
+summary
+```
+
+# Visualizing the results
+```{r fig.width = 10, fig.height = 6}
+theta_draws <- posterior_fit %>% spread_draws(theta[i])
+
+vis_theta <- theta_draws %>% filter(i %% 2 == 1) %>%
+             arrange(i) %>%
+             mutate(theta_lab = paste("Theta ", i)) 
+
+
+theta_plot <- vis_theta %>% 
+              ggplot(aes(x = fct_inorder(theta_lab), y = theta)) +
+              geom_boxplot() +
+              theme_bw() +
+              xlab("Theta") +
+              ylab("Value") + 
+              theme(axis.text.x = element_text(angle = 90),
+                    text = element_text(size = 20))
+
+theta_plot
+```
+
+```{r}
+fixed_vars <- posterior_fit %>% spread_draws(alpha, beta) 
+
+plot_vars <- fixed_vars %>% pivot_longer(-c(.chain, .iteration, .draw), names_to = "name")
+
+fixed_plot <- plot_vars %>% 
+              ggplot(aes(x=value)) +
+              geom_histogram() +
+              facet_wrap(vars(name)) +
+              theme_bw() +
+              xlab("Value") + 
+              theme(text = element_text(size = 20))
+
+fixed_plot
+```
+
