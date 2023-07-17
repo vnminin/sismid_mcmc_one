@@ -14,12 +14,12 @@ beta_integrand = function(x){
 
 (beta_2nd_moment_det = integrate(beta_integrand, 0,1))
 
-beta_mcarlo_iterations = 1000
+beta_mcarlo_iterations = 100000
 beta_sample = rbeta(beta_mcarlo_iterations, shape1=alpha, shape2=beta)
 
 (beta_2nd_moment_mc = mean(beta_sample^2))
 
-## Monte Carlo errors
+## Monte Carlo error
 
 (beta_mcarlo_error = sd(beta_sample^2)/sqrt(beta_mcarlo_iterations))
 
