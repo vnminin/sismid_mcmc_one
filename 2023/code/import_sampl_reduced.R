@@ -10,7 +10,7 @@ sim_size = 10000
 (true_prob = pnorm(my_const,lower.tail=FALSE))
 
 
-## naive Monte Carlo estimate
+                                                                                     #                                                                        b b  b# naive Monte Carlo estimate
 
 ## Your task: create a naive and an importance sampling
 ## estimate of the normal tail probability.
