@@ -24,7 +24,7 @@ This module is an introduction to Markov chain Monte Carlo (MCMC) methods with s
 
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/slides_bayesintro22bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalBayes12023.pdf) | [bayesintro2023.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/bayesintro2023.R)
+[slides_bayesintro.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/slides_bayesintro23bak.pdf) | [PracticalBayes.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalBayes12023.pdf) | [bayesintro2023.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/bayesintro2023.R)
  |[PracticalGibbs.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/PracticalChain_binomial12023.pdf)  |   [chainGibbs_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs_reduced.R)
   | |  [chainGibbs.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chainGibbs.R)
   
