@@ -1,7 +1,7 @@
 ## This script illustrates the Metropolis-Hastings algorithm for
 ## approximating the standard normal distribution
 ## Author: Volodymyr M. Minin
-## last update: 07/16/2022
+## last update: 07/16/2023
 
 ## Your task: Add code the following function.
 
