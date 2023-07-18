@@ -16,9 +16,14 @@ unif_rw_next = function(cur_value, tuning_par){
 
   return_value = c(cur_value, 0)
 
+#  prop_value = runif(1, min=cur_value-tuning_par, max=cur_value+tuning_par)
   prop_value = cur_value + runif(1, min=-tuning_par, max=tuning_par)
 
 #  if (runif(1) < dnorm(prop_value)/dnorm(cur_value)){
+#    return_value = c(prop_value, 1)
+#  }
+  
+#  if (log(runif(1)) < (cur_value^2 - prop_value^2)/2){
 #    return_value = c(prop_value, 1)
 #  }
   
@@ -67,7 +72,7 @@ mcmc_out_large_jumps[1,] = cur_state
 
 for (i in 2:mcmc_size){
 
-  cur_state = unif_rw_next(mcmc_out_large_jumps[i-1,1], 0.5)
+  cur_state = unif_rw_next(mcmc_out_large_jumps[i-1,1], 5)
 
   mcmc_out_large_jumps[i,] = cur_state
 }
@@ -77,6 +82,8 @@ mean(mcmc_out_large_jumps[,"acc_status"])
 
 ## mean of the target distribution
 mean(mcmc_out_large_jumps[,"state"])
+## sd of the target distribution
+sd(mcmc_out_large_jumps[,"state"])
 
 ## trace plot
 plot(1:mcmc_size, mcmc_out_large_jumps[,"state"], type="l", xlab="Iteration", ylab="MCMC State", main="Trace Plot (large jumps)")
