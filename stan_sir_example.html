@@ -351,7 +351,7 @@ display: none;
 
 <h1 class="title toc-ignore">Stan SIR Example</h1>
 <h4 class="author">Isaac Goldstein</h4>
-<h4 class="date">15 July, 2023</h4>
+<h4 class="date">18 July, 2023</h4>
 
 </div>
 
@@ -380,9 +380,9 @@ O_{k} \sim \text{Neg-Binom}(\rho \times (C(t_{k}) - C(t_{k-1})), \phi).
 \end{equation*}\]</span> For simulations, <span class="math inline">\(\rho\)</span> was 0.2, and <span class="math inline">\(\phi\)</span> was 57.55. Cases were simulated on a
 daily time scale, then aggregated to weeks. Here is what the data looks
 like:</p>
-<pre class="r"><code>states &lt;- read_csv(here::here(&quot;data&quot;, &quot;sim_state.csv&quot;))
+<pre class="r"><code>states &lt;- read_csv(&quot;https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/sim_state.csv&quot;)
 
-test_data &lt;- read_csv(here::here(&quot;data&quot;, &quot;sim_data.csv&quot;))
+test_data &lt;- read_csv(&quot;https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/sim_data.csv&quot;)
 
 state_plot &lt;- states %&gt;% 
               dplyr::select(t,S,I,R,C) %&gt;% 
@@ -489,7 +489,7 @@ iterations = 1000
 seed = 236
 thin = 1
 
-posterior_fit &lt;- stan(file = &quot;src/SIR.stan&quot;,
+posterior_fit &lt;- stan(file = &quot;https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/SIR.stan&quot;,
                   data = posterior_object,
                   seed = seed,
                   iter = iterations,
@@ -521,7 +521,7 @@ iterations = 1000
 seed = 236
 thin = 1
 
-prior_fit &lt;- stan(file = &quot;src/SIR.stan&quot;,
+prior_fit &lt;- stan(file = &quot;https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/SIR.stan&quot;,
                   data = prior_object,
                   seed = seed,
                   iter = iterations,
