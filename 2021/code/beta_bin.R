@@ -5,8 +5,8 @@
 ##                theta_i | \alpha, beta ~ Beta(\alpha, \beta)
 ##                                \alpha ~ Exp(0.1)
 ##                                 \beta ~ Exp(0.1)
-## Author: Vladimir N. Minin
-## last update: 07/11/2021
+## Author: Volodymyr M. Minin
+## last update: 07/16/2023
 ##################################################################################
 
 #' Propose a positive parameter by multiplying the current value by exp(lambda(U-0.5))

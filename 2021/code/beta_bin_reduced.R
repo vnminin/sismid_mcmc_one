@@ -5,8 +5,8 @@
 ##                theta_i | \alpha, \beta ~ Beta(\alpha, \beta)
 ##                                \alpha ~ Exp(0.1)
 ##                                 \beta ~ Exp(0.1)
-## Author: Vladimir N. Minin
-## last update: 07/11/2021
+## Author: Volodymyr M. Minin
+## last update: 07/16/2023
 ##################################################################################
 
 #' Propose a positive parameter by multiplying the current value by exp(lambda(U-0.5))
@@ -169,7 +169,7 @@ mcmc_sampler = function(my_data, init_alpha, init_beta, prior_rate_alpha, prior_
 
 ## run the sampler
 
-rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2021/code/rat_tumor.txt", header=TRUE)
+rat_data = read.table("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2023/code/rat_tumor.txt", header=TRUE)
 
 
 rat_results = mcmc_sampler(my_data=rat_data,
