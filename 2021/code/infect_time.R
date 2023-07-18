@@ -1,8 +1,8 @@
 ## This script illustrates the Metropolis-Hastings algorithm for
 ## approximating the posterior distribution of the time of infection
 ## in a simple SIS model
-## Author: Vladimir N. Minin
-## last update: 07/11/2021
+## Author: Volodymyr M. Minin
+## last update: 07/16/2023
 
 #' Compute log-likelihood of the disease trajectory of an individual who starts susceptible and become infected during the observation time period
 #' 
