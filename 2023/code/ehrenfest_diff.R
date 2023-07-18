@@ -12,7 +12,7 @@
 #' @examples
 #' next_state(32, 1000)
 next_state = function(cur_state, num_mol){
-  return.value=NULL
+  return_value=NULL
 
   if (runif(1)<cur_state/num_mol){
     return_value = cur_state-1
