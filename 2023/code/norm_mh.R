@@ -18,7 +18,11 @@ unif_rw_next = function(cur_value, tuning_par){
 
   prop_value = cur_value + runif(1, min=-tuning_par, max=tuning_par)
 
-  if (runif(1) < dnorm(prop_value)/dnorm(cur_value)){
+#  if (runif(1) < dnorm(prop_value)/dnorm(cur_value)){
+#    return_value = c(prop_value, 1)
+#  }
+  
+  if (runif(1) < exp((cur_value^2 - prop_value^2)/2)){
     return_value = c(prop_value, 1)
   }
 
