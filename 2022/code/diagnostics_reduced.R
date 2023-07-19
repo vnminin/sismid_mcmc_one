@@ -1,6 +1,6 @@
 ## This script illustrates some diagnostic tools available in package coda
 ## Author: Vladimir N. Minin
-## last update: 07/17/2022
+## last update: 07/16/2023
 
 ## first we need to load coda and mcmcse packages (you need to install them first)
 library(coda)
