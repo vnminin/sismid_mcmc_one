@@ -78,7 +78,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
 [intro_to-stan.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/intro_to_stan.pdf)   | [Beta-binomial in Stan](https://vnminin.github.io/sismid_mcmc_one/beta_binomial_example.html) | [beta_binomial_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_binomial_example.Rmd)
   | | [beta_binom.stan](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/beta_binom.stan)
- [bayes_ode.pdf](https://vnminin.github.io/sismid_mcmc_one/2023/lectures/2023_bayes_ode.pdf) | [SIR ODE in Stan](https://vnminin.github.io/sismid_mcmc_one/stan_sir_example.html) | [stan_sir_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/stan_sir_example.Rmd)
+ [bayes_ode.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/2023_bayes_ode.pdf) | [SIR ODE in Stan](https://vnminin.github.io/sismid_mcmc_one/stan_sir_example.html) | [stan_sir_example.Rmd](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/stan_sir_example.Rmd)
   | | [SIR.stan](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIR.stan)
 
 ### General epidemic (SIR) model :smile: :sneezing_face: :smile:
