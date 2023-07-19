@@ -7,7 +7,7 @@ library(coda)
 library(mcmcse)
 
 ## now let's load our M-H and Gibbs sampler examples
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2023/code/chainGibbs.R")
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/chainGibbs.R")
 dev.off()
 
 ## run one M-H example chain
