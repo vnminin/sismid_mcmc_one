@@ -59,7 +59,7 @@ gelman.plot(coda_gibbs_list)
 
 ## Exersise: perform diagnostics for SIR data augmentatkon MCMC
 
-source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/master/2023/code/SIRaugmentation.R")
+source("https://raw.githubusercontent.com/vnminin/sismid_mcmc_one/main/2023/code/SIRaugmentation.R")
 
 coda_sir_chain = mcmc(mcmc.sample)
 
