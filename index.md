@@ -66,7 +66,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
  
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
- [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/chain-bin-revisited.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/hierarchical-chain-bin-lab-SISMID2023.pdf) |  [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel_reduced.R)
+ [chain_bin_revisited.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/chain-bin-revisited.pdf) | [chain-bin-revisit-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/chain_bin-revisited-lab.pdf) |  [checkmodel_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel_reduced.R)
  | | [checkmodel.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/checkmodel.R)
  | | [chain_hierarchical_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical_reduced.R)
  | |  [chain_hierarchical.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/chain_hierarchical.R)
