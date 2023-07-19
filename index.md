@@ -85,7 +85,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
  
 Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
 ------------ | ---------- | ------ | ----
-[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR-lecture-SISMID2023.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIR-lab-SISMID2023.pdf) |  [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation_reduced.R)
+[sir_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR-lecture.pdf) | [sir-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIR-lab.pdf) |  [SIRaugmentation_reduced.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation_reduced.R)
 |  |  [SIRaugmentation.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/SIRaugmentation.R)
  
 ### Monte Carlo error and MCMC diagnostics :woman_mechanic:
@@ -99,7 +99,7 @@ Slides/Notes :green_book: | Practicals :microscope: | Code :computer:
  
 Slides/Notes :green_book: | Practicals :microscope: | Videos :movie_camera: | Code :computer:
 ------------ | ---------- | ------ | ----
-[sis_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR_lecture.pdf) | [sis-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIS-lab-SISMID2023.pdf) | | [simulateSIS_N.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/simulateSIS_N.R)
+[sis_lecture.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/lectures/SIR-lecture-SISMID2023.pdf) | [sis-lab.pdf](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/labs/SIS-lab-SISMID2023.pdf) | | [simulateSIS_N.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/simulateSIS_N.R)
 |  | | [MH_SIS.R](https://github.com/vnminin/sismid_mcmc_one/blob/main/2023/code/MH_SIS.R)
  
 ## Useful Books: 📘
